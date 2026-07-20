@@ -7,17 +7,6 @@
 
 ## ⚖️ Read This First — Authorization & Ethics
 
-Dorking itself is passive: you are only reading Google's index. But what you *do* with results carries legal and ethical weight.
-
-| Do | Don't |
-|----|-------|
-| Search only within an authorized scope (a bug bounty program's stated targets, your own assets, or a lawful investigation) | Access, download, or log into exposed accounts/data you find — that can be unauthorized access (CFAA, Computer Misuse Act, etc.) |
-| Report exposed credentials/data to the owner or program | Use exposed data for harassment, stalking, doxxing, or fraud |
-| Respect people-search privacy laws (GDPR, CCPA, state anti-stalking statutes) when investigating individuals | Investigate a private person without a lawful basis |
-| Document your methodology and sources | Assume "it was public" makes any downstream action legal |
-
-**Rule of thumb:** finding is passive; *acting on the find* is where authorization matters. When in doubt, stop and get sign-off.
-
 ### Investigator mindset
 - **Pivot, don't tunnel.** Every result is a new selector (a username → an email → a phone → a domain).
 - **Confirm across sources.** One hit is a lead, not a fact. Corroborate.
