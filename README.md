@@ -5,8 +5,6 @@
 
 ---
 
-## ⚖️ Read This First — Authorization & Ethics
-
 ### Investigator mindset
 - **Pivot, don't tunnel.** Every result is a new selector (a username → an email → a phone → a domain).
 - **Confirm across sources.** One hit is a lead, not a fact. Corroborate.
